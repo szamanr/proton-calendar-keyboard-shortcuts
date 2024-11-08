@@ -6,7 +6,7 @@
 // @grant       none
 // @version     0.1
 // @author      szamanr
-// @supportURL  https://github.com/szamanr/twitter-likes-ratio
+// @supportURL  https://github.com/szamanr/proton-calendar-keyboard-shortcuts
 // @licence     MIT
 // ==/UserScript==
 

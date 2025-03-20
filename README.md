@@ -2,7 +2,6 @@ a userscript that adds the following keyboard shortcuts to [Proton Calendar](htt
 
 - d / w / m - switches to day / week / month view
 - j / k - navigates back / forward
-- t - navigates to today
 
 ## installation
 
